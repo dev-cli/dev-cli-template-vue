@@ -1,4 +1,5 @@
-# dev-cli-template
+# dev-cli-template-vue
+
 ```bash
 pnpm i 
 pnpm run dev
