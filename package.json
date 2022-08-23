@@ -1,7 +1,7 @@
 {
   "name": "dev-cli-template-vue",
   "version": "0.0.2",
-  "description": "dev-cli-vue-template",
+  "description": "dev-cli-template-vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
