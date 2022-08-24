@@ -1,6 +1,6 @@
 {
-  "name": "dev-cli-template-vue",
-  "version": "0.0.1",
+  "name": "<%= name %>",
+  "version": "<%= version %>",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,10 +9,6 @@
   },
   "dependencies": {
     "vue": "^3.2.37"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.com/",
-    "access": "public"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
